@@ -4,7 +4,7 @@ El objetivo de este proyecto fue de replicar una pagina web utilizando react. El
 1. Se debe clonar el repositorio a traves de git clone, con git bash 
 2. Una alternativa es descargar el archivo como zip y descomprimirlo
 3. Dentro de la carpeta debera abrir una consola y copiar la siguiente linea y dar enter:
-__npm install @babel/core @babel/preset-env @babel/preset-react babel-loader eslint-loader prop-types react react-dom webpack webpack-cli__
+__npm install__
 4. No cerrar la consola
 # Ver el proyecto
 1. En la misma consola debera escribir __npm run build__ y dar enter
@@ -17,4 +17,3 @@ __npm install @babel/core @babel/preset-env @babel/preset-react babel-loader esl
 * Babel: https://babeljs.io/
 # Creditos
 @diego59x 
-# Licencia
